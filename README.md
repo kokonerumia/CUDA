@@ -64,5 +64,3 @@ make clean
 This command will remove all the compiled object files and the executable.
 
 ---
-
-This README provides a clear and concise description for anyone who wants to build and run the project, detailing what each part of the project does and how to effectively get it running on their system.
